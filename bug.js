@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Camera API with certain Android devices.  The camera preview fails to render, resulting in a blank screen. This happens inconsistently, appearing on some devices and not on others, even with the same Expo version and similar device specifications. The error logs typically show no specific exception or crash, making it difficult to debug.
